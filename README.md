@@ -1,2 +1,2 @@
-# practice
-Some kind of tasks and scripts w/ VS code & jupyter notebook.
+# python_course
+Python base learning course dedicated files.
